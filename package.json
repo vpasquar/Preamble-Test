@@ -1,0 +1,24 @@
+{
+  "name": "Preamble-Test",
+  "version": "1.0.0",
+  "description": "Node App to hit endpoints and make calculations.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vpasquar/Preamble-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpasquar/Preamble-Test/issues"
+  },
+  "homepage": "https://github.com/vpasquar/Preamble-Test#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  }
+}
